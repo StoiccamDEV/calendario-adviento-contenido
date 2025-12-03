@@ -4,8 +4,8 @@
     {
       "type": "image",
       "url": "https://i.pinimg.com/1200x/4c/58/88/4c58886bc8c6e3b787c1be154bf71849.jpg",
-      "align": "left",   // puede ser "left" o "right"
-      "width": "200px"   // ancho de la imagen
+      "align": "left",
+      "width": "200px"
     },
     {
       "type": "text",
