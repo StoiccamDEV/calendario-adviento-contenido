@@ -1,4 +1,15 @@
 {
-  "type": "text",
-  "value": "Texto de prueba"
+  "type": "mixed",
+  "items": [
+    {
+      "type": "image",
+      "url": "https://i.pinimg.com/1200x/4c/58/88/4c58886bc8c6e3b787c1be154bf71849.jpg",
+      "align": "left",   // puede ser "left" o "right"
+      "width": "200px"   // ancho de la imagen
+    },
+    {
+      "type": "text",
+      "value": "Este es un texto que rodea la imagen, como en Wikipedia. Puedes escribir lo que quieras aquí y el texto se ajustará automáticamente al tamaño de la imagen."
+    }
+  ]
 }
