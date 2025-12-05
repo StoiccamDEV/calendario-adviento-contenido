@@ -1,0 +1,13 @@
+{
+  "type": "mixed",
+  "items": [
+    {
+      "type": "text",
+      "value": "Un poema pero esta vez es narrado... ¿Se sentirá diferente?"
+    },
+    {
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/StoiccamDEV/calendario-adviento-contenido/main/audio/audio1.mp3"
+    }
+  ]
+}
